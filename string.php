@@ -15,9 +15,7 @@ foreach ($strings as $string) {
   // Reverse the string 
   $reversedString = strrev($string);
 
-  
+
   // Print the results
   echo "Original String: $string, Vowel Count: $vowelCount, Reversed String: $reversedString\n";
 }
-
-?>
